@@ -1,0 +1,100 @@
+
+	.navbar-brand {
+		background-color: #4aaaa5;
+		color: white;
+		} 
+
+	h4 {
+		font-size: 23px;
+	}
+
+	h5 {
+		color: white;
+		font-size: 20px;
+		}
+	
+	h3 {
+		border-bottom: 2px solid darkgray;
+		color: #4aaaa5;
+	}
+
+	p {
+		font-size: 16px;
+	}
+
+	.about {
+		border: 2px solid darkgray;
+		margin: 25px;
+		background-color: white;
+		padding: 10px;
+		display: inline-block;
+		margin-bottom: 25px;
+	}
+
+	.social-info {
+		border:2px solid darkgray;
+		margin: 30px;
+		text-align: center;
+		background-color: white;
+		padding: 10px;
+		}
+
+	.fa-github-square {
+		color: black;
+	}
+	
+	.fa-linkedin-square {
+		color: blue;
+	}
+	
+	.fa-stack-overflow {
+		color: orange;
+		border-radius: 20px;
+	}
+
+	.portfolio {
+		display: inline-block;
+		border: 2px solid darkgray;
+		padding: 40px;
+		background-color: white;
+		}
+
+	img {
+		width: 180px;
+		height: 180px;
+		margin: 40px;
+		}
+
+	.thumbnail {
+		border: none;
+		padding: 0px;
+		}
+
+	.caption {
+		background-color: #4aaaa5;
+		text-align: center;
+		width: 180px;
+		margin-top: -40px;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 10px;
+		}
+
+	.contact {
+		border: 2px solid darkgray;
+		margin: 25px;
+		background-color: white;
+		padding: 5px;
+	}
+
+	footer {
+		height: 50px;
+		width: 100%;
+		font-style: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+		text-align: center;
+		background: #666666;
+		padding-top: 10px;
+		font-size: 16px;
+		color: lightgray;
+		border-top: 10px solid #4aaaa5;
+	}
